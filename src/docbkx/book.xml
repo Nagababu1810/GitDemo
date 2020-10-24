@@ -14,7 +14,11 @@
       <title>This is a section1</title>
       <title>This is a section2</title>
 
+
       <para>This is a paragraph.</para>
+      <para>This is a paragraph1</para>
+      <para>This is a paragraph1</para>
+      <para>This is a paragraph1</para>
     </section>
 
     <xi:include href="included_section.xml" />
