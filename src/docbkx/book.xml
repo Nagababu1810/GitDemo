@@ -17,8 +17,8 @@
 
       <para>This is a paragraph.</para>
       <para>This is a paragraph1</para>
-      <para>This is a paragraph1</para>
-      <para>This is a paragraph1</para>
+      <para>This is a paragraph2</para>
+      <para>This is a paragraph3</para>
     </section>
 
     <xi:include href="included_section.xml" />
