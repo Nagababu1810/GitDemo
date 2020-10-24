@@ -11,7 +11,8 @@
     <title>This is a chapter</title>
 
     <section>
-      <title>This is a section</title>
+      <title>This is a section1</title>
+      <title>This is a section2</title>
 
       <para>This is a paragraph.</para>
     </section>
