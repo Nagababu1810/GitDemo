@@ -10,7 +10,7 @@ public class CharAtEx {
 		char ch=str.charAt(0);
 		System.out.println(ch);
 		
-		
+		//Add second space
 		//find out first index value and last index value
 		
 		String name="nagababu";
