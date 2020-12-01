@@ -35,6 +35,9 @@ public class BasicArrayList {
 		
  
 
+		
+		
+		
 		// 3.add all element of list
 		
 		/*
@@ -93,6 +96,8 @@ public class BasicArrayList {
 			System.out.println(shuff);
 		}
 		}
+		
+		
 		
 		// 10.swap two elements of arraylist
 		
