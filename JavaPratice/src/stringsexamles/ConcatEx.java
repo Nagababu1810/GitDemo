@@ -10,7 +10,7 @@ public class ConcatEx {
 		//concate single object
 		String str1 ="java";
 		String str2 ="Pratice";
-		
+		//This is spample message
 		System.out.println(str1.concat(str1));
 		System.out.println(str1.concat(str2));
 		
